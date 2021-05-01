@@ -9,7 +9,7 @@ How did Store 577's performance compare to its actual sales throughout 2019?
 
 [perf_metric1]:/projectPlanning/store_577_sales_performance_metric_2.png
 [perf_metric2]:/projectPlanning/store577_salesperformance_vs_metric.png
-
+ 
 
 
 Did their performance improve throughout 2020?
