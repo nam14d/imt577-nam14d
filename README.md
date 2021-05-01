@@ -7,15 +7,15 @@ How did Store 577's performance compare to its actual sales throughout 2019?
 ![alt text][perf_metric1]
 ![alt text][perf_metric2]
 
-[perf_metric1]:https://github.com/nam14d/imt577-nam14d/tree/main/projectPlanning/store_577_sales_performance_metric_2.pdf
-[perf_metric2]:https://github.com/nam14d/imt577-nam14d/tree/main/projectPlanning/store577_salesperformance_vs_metric.pdf
+[perf_metric1]:/projectPlanning/store_577_sales_performance_metric_2.pdf
+[perf_metric2]:/projectPlanning/store577_salesperformance_vs_metric.pdf
 
 
 
 Did their performance improve throughout 2020?
 ![alt text][perf2020]
 
-[perf2020]:https://github.com/nam14d/imt577-nam14d/tree/main/projectPlanning/store577_salesperformance_vs_metric.pdf
+[perf2020]:/projectPlanning/store577_salesperformance_vs_metric.pdf
 
 
 2. ERD Exercises had our class create dimensional models for a few different business scenarios; the ones here aren't completely correct (Where are the surrogate keys?), but they aren't bad for a first shot.
@@ -23,11 +23,11 @@ Did their performance improve throughout 2020?
 Hotel:
 ![alt text][hotel]
 
-[hotel]:https://github.com/nam14d/imt577-nam14d/tree/main/erdExercises/DimensionalModelExercise.png
+[hotel]:/erdExercises/DimensionalModelExercise.png
 
 
 Store:
 ![alt text][store]
-[store]:https://github.com/nam14d/imt577-nam14d/tree/main/erdExercises/Store ERD.pdf
+[store]:/erdExercises/Store ERD.pdf
 
 3. The SSIS Assignments have us run throught the ETL process using SSIS
