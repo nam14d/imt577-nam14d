@@ -19,6 +19,7 @@ Did their performance improve throughout 2020?
 
 Are they expected to reach or surpass their target?
 ![alt text][target]
+
 [target]:/projectPlanning/store_577_miss_annual_target.png
 
 2. ERD Exercises had our class create dimensional models for a few different business scenarios; the ones here aren't completely correct (Where are the surrogate keys?), but they aren't bad for a first shot.
@@ -31,6 +32,7 @@ Hotel:
 
 Store:
 ![alt text][store]
+
 [store]:/erdExercises/StoreERD.png
 
 3. The SSIS Assignments have us run throught the ETL process using SSIS
