@@ -18,8 +18,8 @@ Did their performance improve throughout 2020?
 [perf2020]:/projectPlanning/store_577_store_sales_2020_line.png
 
 Are they expected to reach or surpass their target?
-![alt text][targ]
-[targ]:/projectPlanning/store_577_miss_annual_target.png
+![alt text][target]
+[target]:/projectPlanning/store_577_miss_annual_target.png
 
 2. ERD Exercises had our class create dimensional models for a few different business scenarios; the ones here aren't completely correct (Where are the surrogate keys?), but they aren't bad for a first shot.
 
