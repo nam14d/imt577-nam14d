@@ -28,6 +28,6 @@ Hotel:
 
 Store:
 ![alt text][store]
-[store]:/erdExercises/Store ERD.png
+[store]:/erdExercises/StoreERD.png
 
 3. The SSIS Assignments have us run throught the ETL process using SSIS
