@@ -37,7 +37,7 @@ ERD Exercises had our class create dimensional models for a few different busine
 ### Store:
 ![alt text][store]
 
-[store]:/erdExercises/StoreERD.png
+[store]:/erdExercises/Store_ERD.png
 
 ## 3. ETL Via SSIS
 
