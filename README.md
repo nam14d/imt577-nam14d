@@ -44,4 +44,5 @@ ERD Exercises had our class create dimensional models for a few different busine
 The SSIS Assignments have us run throught the ETL process using SSIS
 
 ![alt_text][ssis]
+
 [ssis]:/ssisAssignments/SSIS_Fin.PNG
