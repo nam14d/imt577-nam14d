@@ -45,4 +45,4 @@ The SSIS Assignments have us run throught the ETL process using SSIS
 
 ![alt_text][ssis]
 
-[ssis]:/ssisAssignments/SSIS_Fin.PNG
+[ssis]:/imt577_lazarus_git/ssis_fin.PNG
